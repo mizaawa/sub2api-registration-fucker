@@ -1,0 +1,15 @@
+{
+  "target_url": "https://sub2.yuepa8.com",
+  "enable_dynamic_ip_pool": true,
+  "subscription_url": "https://VYPlDdv.doggygosubs.com:8443/api/v1/client/186e8556664b5fc4dad70122af8ccad4",
+  "email_domain": "example.com",
+  "invitation_code": "",
+  "limit": 0,
+  "quota_per_ip": 5,
+  "window_seconds": 60,
+  "timeout_seconds": 15,
+  "node_health_timeout_ms": 3500,
+  "healthcheck_url": "https://sub2.yuepa8.com",
+  "exit_ip_url": "https://api64.ipify.org?format=json",
+  "stop_on_verification": true
+}

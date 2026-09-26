@@ -1,5 +1,5 @@
 {
-  "target_url": "https://sub2.yuepa8.com",
+  "target_url": "",//目标站点
   "enable_dynamic_ip_pool": true,
   "subscription_url": "",
   "email_domain": "example.com",
@@ -9,7 +9,7 @@
   "window_seconds": 60,
   "timeout_seconds": 15,
   "node_health_timeout_ms": 3500,
-  "healthcheck_url": "https://sub2.yuepa8.com",
-  "exit_ip_url": "https://api64.ipify.org?format=json",
+  "healthcheck_url": "",//目标站点
+  "exit_ip_url": "",//clash请求
   "stop_on_verification": true
 }
